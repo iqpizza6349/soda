@@ -1,6 +1,9 @@
 buildscript {
     ext {
         tomcatVersion = '10.1.11'
+        jacksonVersion = '2.15.2'
+        slf4jVersion = '2.0.7'
+        logbackVersion = '1.4.9'
     }
 }
 
